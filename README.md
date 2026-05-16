@@ -1,4 +1,3 @@
-````md id="m7x4wp"
 # Multilingual Text Summarization for Visually Impaired Individuals Using NLP
 
 ## Overview
